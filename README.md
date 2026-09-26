@@ -149,8 +149,8 @@ These filters dynamically update the KPI cards and visualizations.
 
 ## 👤 Author
 
-**Santosh Kumar**
+### Santosh Kumar
 
-Data Analytics Portfolio Project
+Data Analyst | Data Analytics Portfolio
 
 **Skills:** Power BI | SQL | Excel | Python | DAX
