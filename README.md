@@ -1,6 +1,3 @@
-# HR-Analytics-PowerBI-Dashboard
-Interactive HR Analytics Dashboard built using Power BI to analyze employee attrition and workforce trends.
-
 # HR Analytics Dashboard | Power BI
 
 An interactive **HR Analytics Dashboard built using Power BI** to analyze employee attrition and workforce trends across different employee and organizational dimensions.
@@ -150,10 +147,10 @@ These filters dynamically update the KPI cards and visualizations.
 
 ---
 
-## 🧮 DAX Measures
+## 👤 Author
 
-### Total Employees
+**Santosh Kumar**
 
-```DAX
-Total Employees =
-DISTINCTCOUNT('HR Data'[EmployeeNumber])
+Data Analytics Portfolio Project
+
+**Skills:** Power BI | SQL | Excel | Python | DAX
